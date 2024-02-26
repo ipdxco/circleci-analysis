@@ -1,0 +1,9 @@
+{
+  "version": "3",
+  "redirects": {
+    "https://deno.land/x/flatten/mod.ts": "https://deno.land/x/flatten@1.1.0/mod.ts"
+  },
+  "remote": {
+    "https://deno.land/x/flatten@1.1.0/mod.ts": "d5d8275c7deb2f0219e13e4819f4de8d045e2ff8a0f33a511e57219ae4b542a0"
+  }
+}
